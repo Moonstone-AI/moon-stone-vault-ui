@@ -1,0 +1,69 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2203 >>
+stream
+BT
+/F1 10 Tf
+40 780 Td
+14 TL
+(MOON-STONE SEMANTIC VAULT: REGULATORY COMPLIANCE MATRIX \(PHASE 4\)) Tj T*
+(Document ID: RCM-MS-PILOT-2026 | Target: DPO, InfoSec, and Regulators) Tj T*
+(Axiomatic Baseline: Monograph Chapters 6.5, 7.2, 7.4, 8, 15.4 and Appendix E) Tj T*
+(--------------------------------------------------------------------------------) Tj T*
+T*
+(1. GDPR Art. 25 \(Data Protection by Design & Default\):) Tj T*
+(   - Mechanism: Architectural annihilation of F\(x\) at perimeter. Zero PII stored.) Tj T*
+(   - Proof: Axiom E.1: Proj_F\(Sigma_pi\(x\)\) = EmptySet. Surface form never hits disk.) Tj T*
+(   - Compliance: Full. Data is non-reconstructible by architectural design.) Tj T*
+T*
+(2. GDPR Art. 32 \(Security of Processing\):) Tj T*
+(   - Mechanism: Homophonic mapping with parameter rho and TEE isolation.) Tj T*
+(   - Proof: Corollary E.1: Absence of unique inverse R\(g\)=x.) Tj T*
+(   - Compliance: Complete. Cryptographic non-injectivity ensures zero reconstruction.) Tj T*
+T*
+(3. HIPAA Security Rule \(164.312\(a\)\(1\) Access Control\):) Tj T*
+(   - Mechanism: Model-as-Key Bound protocol \(Tier 3\). Requires cognitive topology M.) Tj T*
+(   - Proof: Chapter 7.4: Model Key Theorem. E_3 returns ONTOLOGICAL_MISMATCH on M'!=M.) Tj T*
+(   - Compliance: Institutional. Access strictly tied to certified neural topology.) Tj T*
+T*
+(4. SOC 2 CC6.1 \(Logical Access Security\):) Tj T*
+(   - Mechanism: Codebook Separation Axiom. C_research public, C_priv hardware-sealed.) Tj T*
+(   - Proof: Chapter 15.4: Federated Zero-Revelation Protocol. C_research cap C_priv = Empty.) Tj T*
+(   - Compliance: Verified. Zero data leakage between consortium and private tenants.) Tj T*
+T*
+(5. NIST IR 8397 \(Confidential Computing\):) Tj T*
+(   - Mechanism: Hardware TEE enclaves \(SGX/SEV-SNP/Nitro\) with hardware zeroization.) Tj T*
+(   - Proof: Chapter 7.2: Hardware Trust Boundary & anti-cold-boot RAM flush.) Tj T*
+(   - Compliance: Hardware-rooted. Intermediate states wiped post operator E_3.) Tj T*
+T*
+(--------------------------------------------------------------------------------) Tj T*
+(Consortium Quorum: 3/4 Anchors Verified | Status: APPROVED FOR INSTITUTIONAL PILOT) Tj T*
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002496 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2564
+%%EOF
